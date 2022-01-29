@@ -1,0 +1,53 @@
+h1 
+{
+
+    color:blue;
+    font-size: 100px;
+    text-align: center;
+    position: relative; top: -50px;
+}
+
+h3
+{
+
+    text-align: center;
+    position: relative; top: -100px;
+    font-size: 30px;
+}
+
+#whereyoutype {
+
+position: relative; 
+left: 650px;
+top: -370px;
+
+}
+
+#myButton {
+
+    position: relative; 
+    left: 275px;
+    top: -375px;
+
+}
+
+
+
+
+
+h2 {
+
+    color: blue;
+    position: relative;
+    left: 585px;
+    top: -300px;
+    font-size: 25px;
+
+}
+
+#pictureoffrog {
+position: relative;
+  left: -380px;
+  top: -110px;
+    
+       }
